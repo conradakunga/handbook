@@ -16,7 +16,9 @@ We have answers!
 
 We'll focus on traveling to the US since attending company meetups is our primary reason for international business travel.
 
-Here's what you need:
+Keep in mind, if you're traveling more than 10 hours in the air (not including layovers), Basecamp will cover the cost of a business class ticket, up to $5000, twice a year.
+
+When you travel for Basecamp business, here's what you need:
 
 1. A passport! Apply for one now if you don't have one already. Renew now if your passport expires in the next six months.
 2. A travel visa or waiver.
@@ -47,18 +49,16 @@ We'll work with you through this process. Start early, as soon as we have dates 
 
 ### Trusted Traveler Programs
 
-Border screening is slow and stressful every time. "Trusted traveler" programs expedite and bypass some screening. Citizens of some countries are eligible for [Global Entry](https://help.cbp.gov/app/answers/detail/a_id/1035/~/global-entry-program---who-can-apply) and Canadians are eligible for [NEXUS](https://www.cbp.gov/travel/trusted-traveler-programs/nexus/eligibility). These programs are completely optional but may make life a little easier, at the cost of onerous biometric scans like fingerprinting (for Global Entry and NEXUS) and iris scanning (for NEXUS).
+Border screening is slow and stressful every time. "Trusted traveler" programs expedite and bypass some screening. Citizens of some countries are eligible for [Global Entry](https://help.cbp.gov/app/answers/detail/a_id/1035/~/global-entry-program---who-can-apply) and Canadians are eligible for [NEXUS](https://www.cbp.gov/travel/trusted-traveler-programs/nexus/nexus-eligibility). These programs are completely optional but may make life a little easier, at the cost of onerous biometric scans like fingerprinting (for Global Entry and NEXUS) and iris scanning (for NEXUS).
 
 Note: An ESTA is still required for travel; these programs just speed up entry.
 
 
 ## Invitation Letter
 
-To substantiate the purpose of your travel, we provide an invitation letter that states that you're traveling to the US for a business meeting and not to do work.
+To substantiate the purpose of your travel, we can provide an unofficial invitation letter that states that you're traveling to the US for a business meeting and not to do work.
 
 "Doing business"—e.g. attending a business meeting or conference—is allowed under the business visitor visa (and visa waiver), but "doing work" is not. That'd require a temporary work visa.
-
-You'll need a new letter each time you travel. Contact Andrea to get one drafted.
 
 ## Company Security at the Border
 
@@ -74,16 +74,15 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 ## Checklist: Before You Travel
 
 * Let us know! Share your travel plans and when you expect to arrive in the US.
-* Request an invitation letter from Andrea. She'll draft a letter specific to your visit.
-* Update your ESTA online with your travel info and the hotel address: Crowne Plaza Chicago West Loop, 733 West Madison, Chicago IL 60661.
+* Update your ESTA online with your travel info and the hotel address: Ace Hotel, 311 N Morgan St., Chicago, IL 60607.
 * Ensure you have your passport, ESTA, invitation letter, and travel details all in order.
 * Put Andrea and our attorney on speed dial.
   * If you run into general travel issues or have any questions, contact Andrea LaRowe.
   * If you're detained or encounter some other serious customs headache, contact our attorney directly: Jennifer Pflanz (get phone number from Andrea). Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but Jennifer is your first call if possible.
 * 1Password
   * Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the Basecamp team vault instead. You have a personal vault inside the Basecamp team which is perfect for those logins.
-  * Ask in SIP for someone to remove you from the Basecamp team for 1Password so you no longer have access to Basecamp logins and passwords. Let them know when to reenable your access.
-  * If you don't get this arranged with SIP in time for travel, remove the Basecamp team from your 1Password apps on your phone, tablet, and laptop so you no longer have access to Basecamp logins and passwords.
+  * Turn on Travel Mode. Go to https://basecamp.1password.com/profile and click Enable Travel Mode.
+  * Open 1Password on each device you're traveling with (laptop, phone, iPad, etc) so it can wipe its data while it's in Travel Mode.
 * Email apps
   * If you use an email app rather than Gmail in your browser, remove the @basecamp.com account.
 * Clear browser cookies, logging you out of all work sites.
@@ -108,7 +107,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 * Common questions:
   * Purpose of your visit? Here for a business meeting in Chicago.
   * Here to do work? Nope! Here on business, meeting with Basecamp.
-  * Where are you staying? Crowne Plaza Chicago West Loop. 733 West Madison, Chicago IL 60661. Front desk: +1 312 829 5000.
+  * Where are you staying? Ace Hotel, 311 N Morgan St., Chicago, IL 60607. Front desk: +1 312 764 1919.
 * Be straighforward and truthful. You're legit! No need to be cagey or misleading.
 
 ## Checklist: When You Arrive
@@ -117,7 +116,7 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 * Touch ID: Reenable on your phone, tablet, and laptop.
 * Dropbox: Log in and reconnect, but only if needed during travel.
 * Basecamp app: Reinstall on your phone, tablet, and laptop.
-* 1Password: Add the Basecamp team back to your apps. Holler in SIP and we'll add you back to the Basecamp team.
+* 1Password: Turn off Travel Mode. Go to https://basecamp.1password.com/profile and click Disable Travel Mode. Next time you open 1Password, you'll have full access again.
 * Email apps: Add your @basecamp.com account again.
 * Basecamp source code: Download and restore the archive of your Basecamp git repos, but only if needed during travel.
 * Other sensitive documents: Download and restore, but only if needed during travel.

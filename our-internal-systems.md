@@ -4,7 +4,7 @@ Besides the customer-facing applications, like the different versions of Basecam
 
 ### Dash
 
-Dash is the main hub for everything that has to do with logging (like finding why a request is slow or whether an email has been delivered), reporting (everything from number of support cases handled to split of devices used to access Basecamp), application health (response times, job queue exceptions etc). The chieftain in charge of the overall system is Noah.
+Dash is the main hub for everything that has to do with logging (like finding why a request is slow or whether an email has been delivered), reporting (everything from number of support cases handled to split of devices used to access Basecamp), application health (response times, job queue exceptions etc). Justin is managing this hub.
 
 https://dash.37signals.com/
 
@@ -36,6 +36,6 @@ https://customer.io
 
 ### Shipshape
 
-Shipshape is how we make sure our work computers are up to Basecamp's strict security protocol. When you're given access to Basecamp's Github account, you can run Shipshape to be sure you're up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
+Shipshape is how we make sure our work computers are up to Basecamp's strict security protocol. When you're given access to Basecamp's GitHub account, you can run Shipshape to be sure you're up to code. Shipshape will also test your machine periodically to let you know (and our SIP team know) if your machine springs a leak and needs bailing out.
 
 https://github.com/basecamp/shipshape

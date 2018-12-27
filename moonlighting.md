@@ -6,7 +6,7 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 ## OK
 
-1. An occasional side gig, free or paid, for someone you know. For example, if you want to work on a friend’s website, or a design or writing project for something you’ve involved with, that’s fine.
+1. An occasional side gig, free or paid, for someone you know. For example, if you want to work on a friend’s website, or a design or writing project for something you’re involved with, that’s fine.
 
 2. An occasional speaking gig, free or paid. Someone’s going to pay you to give a talk somewhere? That’s fine as long as it doesn’t involve multiple days off for travel (unless you use your own personal vacation time against this travel time).
 
@@ -37,6 +37,6 @@ Here’s a few guiding principles about whether something could be a problem:
 * Does it require you to be away during times when you’re needed at work?
 * Is it another paid gig that employs the same skills Basecamp is paying you for?
 
-In general we’d like to be lenient within reason, but we’re going be strict if we see it impact your time, attention, or performance here at work.
+In general we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
 
 It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to Jason or David. We’re always happy to spare a moment to give our thoughts on it before you make a commitment.
